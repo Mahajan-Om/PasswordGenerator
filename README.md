@@ -4,7 +4,7 @@ A sleek and secure Password Generator web app built using **HTML**, **CSS**, and
 
 ## 🖥️ Demo
 
-Check out the live demo here:
+Check out the live demo here: https://mahajan-om.github.io/PasswordGenerator/
 
 ---
 
